@@ -5,5 +5,5 @@ outs:
   path: x_train_v1.npy
 
 meta:
-  version: v0.1
+  version: v1.0
   date: 13/03/2026
